@@ -2,14 +2,14 @@ Option 1:
 Roguelike
 A turn-based 2D roguelike made with Unity. Move across procedurally populated boards, collect food to stay alive, fight enemies, and progress through increasingly challenging levels.
 
-Features:\n
-Progressive levels (Bonus): Board dimensions grow as you advance, and later levels contain more enemies and walls.\n
-Turn-based enemies: Enemies move toward the player after each turn and attack when adjacent.\n
-Food and survival: Collect food to restore your supply. Turns and enemy attacks consume food; the game ends when it reaches zero.\n
-Smooth movement: The player moves between cells with a short animation.\n
-Menus (Bonus): Start from the title screen, pause and resume with Escape, or restart and quit from the menus.\n
-Audio and visual effects: Sound effects and editable particle prefabs play for events such as movement, wall attacks, food collection, and enemy deaths.\n
-Object pooling: Board objects are reused between levels.\n
+Features:
+Progressive levels (Bonus): Board dimensions grow as you advance, and later levels contain more enemies and walls.
+Turn-based enemies: Enemies move toward the player after each turn and attack when adjacent.
+Food and survival: Collect food to restore your supply. Turns and enemy attacks consume food; the game ends when it reaches zero.
+Smooth movement: The player moves between cells with a short animation.
+Menus (Bonus): Start from the title screen, pause and resume with Escape, or restart and quit from the menus.
+Audio and visual effects: Sound effects and editable particle prefabs play for events such as movement, wall attacks, food collection, and enemy deaths.
+Object pooling: Board objects are reused between levels.
 Controls
 Input	Action
 Arrow keys	Move
