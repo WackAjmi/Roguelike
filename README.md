@@ -19,11 +19,17 @@ Audio and visual effects: Sound effects and editable particle prefabs play for e
 Object pooling: Board objects are reused between levels.
 
 Controls
+
 Input	Action
+
 Arrow keys	Move
+
 Escape	Pause or resume
+
 Enter	Restart after game over
-Running the Game
+
+Running the Game:
+
 Open the project in Unity 6.
 Open Assets/Scenes/Main.unity.
 Press Play in the Unity Editor, then select Play on the title screen.
